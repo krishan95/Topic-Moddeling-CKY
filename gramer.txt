@@ -1,0 +1,8 @@
+S ->B A
+S ->B C 
+A->A C
+B ->C C
+C->A B
+B ->cat 
+C ->is
+A ->sleeping
